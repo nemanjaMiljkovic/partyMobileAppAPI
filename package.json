@@ -17,6 +17,7 @@
     "express-cluster": "^0.0.4",
     "fb": "^1.1.1",
     "jade": "~1.11.0",
+    "lodash": "^4.17.4",
     "mocha": "^3.2.0",
     "morgan": "~1.7.0",
     "serve-favicon": "~2.3.2",
